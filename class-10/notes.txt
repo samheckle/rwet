@@ -1,0 +1,5 @@
+history
+
+history | grep python
+
+history | grep python | tail -10
